@@ -6,5 +6,5 @@ This repository contains an example of how the cactus branching model works.
 
 This is a new feature.
 
-## Uh oh!
-This is bad commit
+## Fixed!
+This is bad commit has been fixed!
